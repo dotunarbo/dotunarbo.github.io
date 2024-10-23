@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dotunarbo.github.io/dotunarbo.dotunarbo
+Sitemap: https://dotunarbo.github.io/app/dotunarbo.dotunarbo
+Sitemap: https://dotunarbo.github.io/assets/dotunarbo.dotunarbo
+Sitemap: https://dotunarbo.github.io/css/dotunarbo.dotunarbo
+Sitemap: https://dotunarbo.github.io/includes/dotunarbo.dotunarbo
+Sitemap: https://dotunarbo.github.io/item/dotunarbo.dotunarbo
+Sitemap: https://dotunarbo.github.io/src/dotunarbo.dotunarbo
